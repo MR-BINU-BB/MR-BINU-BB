@@ -22,4 +22,3 @@ and you also call me BB</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-binu-bb&show_icons=true&locale=en" alt="mr-binu-bb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-binu-bb&" alt="mr-binu-bb" /></p>
