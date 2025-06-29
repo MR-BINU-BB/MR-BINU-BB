@@ -91,11 +91,9 @@ Every vulnerability I find is a story. Every exploit is a message. I'm not just 
 
 ---
 
-### 🐍 GitHub Contribution Snake 🐍
-
-<p align="center">
-  <img src="https://github.com/mr-binu-bb/mr-binu-bb/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<!-- Snake animation -->
+![Snake animation](https://github.com/mr-binu-bb/mr-binu-bb/output/github-contribution-grid-snake.svg)
+<!-- End snake animation -->
 
 ---
 
