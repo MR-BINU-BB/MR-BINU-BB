@@ -11,19 +11,16 @@
 </p>
 
 <p align="center">
-  <a href=" https://telegram.me/MR_BINU_BB" target="_blank">
+  <a href="https://telegram.me/MR_BINU_BB" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
-  
   <a href="https://x.com/MR_BINU_BB" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-
   <a href="https://github.com/mr-binu-bb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
-
 
 ---
 
