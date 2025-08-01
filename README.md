@@ -1,13 +1,11 @@
 <h1 align="center">Hey User 👋, I'm <span style="color:#00FFFF">MR-BINU</span> And You Also Call Me  <span style="color:#FF00FF">BB</span></h1>
 <h3 align="center">Exploring the Shadows: Gray Hat Tactics | CTF Warfare | Real-World Bug Hunter</h3>
 <p align="center">
-  <img src="https://i.redd.it/wmr0tntc17jx.gif" width="350px" alt="hacker gif">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-7.gif">
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-binu-bb&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
