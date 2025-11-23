@@ -32,15 +32,14 @@ I’m currently immersed in:
 
 - 🔬 **Hardware Hacking & Forensics**
 - ☁️ **Cloud Security (AWS, Azure)**
-- 🧬 **Malware Analysis & Reverse Engineering**
-- 🎯 **CTF Warfare & Bug Bounty Recon**
+- 🎯 **CTF Warfare & Bug Bounty**
 
 But that’s just the surface. I'm also leveling up with:
 
-- 🧰 **Offensive Tool Development** in Python, Bash & C
-- 🛰️ **OSINT** and recon automation
-- 🤖 **AI-Driven Exploits** and scripting automation
-- 🛠️ **Linux & Kernel Internals**
+- 🧰 **Offensive Tool Development** in Python and  Bash 
+- 🛰️ **OSINT**
+- 🤖 **AI-Driven** 
+- 🛠️ **Linux**
 - 🧠 **Cyber Psychology** – understanding how people break before their systems do
 
 Every vulnerability I find is a story. Every exploit is a message. I'm not just learning — I'm building the mindset of a digital predator, with discipline, vision, and a mission.
@@ -52,7 +51,7 @@ Every vulnerability I find is a story. Every exploit is a message. I'm not just 
 ### 🚀 Skills & Tech Arsenal:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,css,js,php,mysql,mongodb,sqlite,docker,aws,azure,linux,unity" />
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,mysql,docker,aws,azure,linux,unity" />
 </p>
 
 ---
