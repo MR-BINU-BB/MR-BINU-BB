@@ -51,7 +51,7 @@ Every vulnerability I find is a story. Every exploit is a message. I'm not just 
 ### 🚀 Skills & Tech Arsenal:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,mysql,docker,aws,azure,linux,unity" />
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,mysql,docker,aws,azure,linux" />
 </p>
 
 ---
