@@ -24,66 +24,73 @@
 
 ---
 
-### 🧠 Who Am I?
+I'm **[`MR-BINU`](https://github.com/CypherBinu)** — also known as **BB**,  
+a Gray Hat Hacker, Security Researcher, and aspiring Cybersecurity Specialist.  
 
-I'm MR-BINU, also known as **BB**, a Gray Hat warrior navigating the blurred lines between ethical defense and calculated offense. I'm not just learning tech — I'm **shaping my own cyber battlefield.** My curiosity doesn't stop at code — it dives deep into **systems, protocols, vulnerabilities**, and how to bend them to my will.
+With a deep passion for offensive security, I explore vulnerabilities, break systems ethically,  
+and help secure the digital world through bug hunting, OSINT, forensics, and exploit development.
 
-I’m currently immersed in:
+<details>
+  <summary>More about me</summary>
 
-- 🔬 **Hardware Hacking & Forensics**
-- ☁️ **Cloud Security (AWS, Azure)**
-- 🎯 **CTF Warfare & Bug Bounty**
+- **Name**: MR-BINU (BB)  
+- **From**: India 🇮🇳  
+- **Gray Hat Hacker** | **Security Researcher** | **Bug Hunter** | **OSINT & Forensics Enthusiast**  
+- An artist who tries to break the Matrix system — bending code, logic, and reality.  
 
-But that’s just the surface. I'm also leveling up with:
+</details>
 
-- 🧰 **Offensive Tool Development** in Python and  Bash 
-- 🛰️ **OSINT**
-- 🤖 **AI-Driven** 
-- 🛠️ **Linux**
-- 🧠 **Cyber Psychology** – understanding how people break before their systems do
+<br>
 
-Every vulnerability I find is a story. Every exploit is a message. I'm not just learning — I'm building the mindset of a digital predator, with discipline, vision, and a mission.
 
 - 💭 _“I don’t just hack computers... I hack **minds**. Outside the Matrix, searching for peace and good vibes.”_
 
 ---
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://i.gifer.com/7VE.gif" width="200">
+    </td>
+    <td>
 
-### 🚀 Skills & Tech Arsenal:
+### ⚡ Present Status
+
+👉 Still learning **Bug Hunting**, **OSINT**, and **Digital Forensics**.  
+👉 Exploring **malware behavior**, investigation workflows, and analysis techniques.  
+👉 Managing tech communities and creating useful cybersecurity content.  
+👉 Developing tools for my workflow and for the community.  
+👉 Contributing to open-source security projects.  
+👉 currently explore  **Mobile Pentesting**, **Cloud Security**, and **Web3 Security**.  
+👉 Now expanding my skillset into **AI & Machine Learning** for cybersecurity applications.
+
+**Ongoing:** Growing, learning, and sharpening my skills as I progress toward becoming a proficient **Cybersecurity Specialist**.
+
+  </td>
+  </tr>
+</table>
+
+### Knowledge & Skills:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,mysql,docker,aws,azure,linux" />
-</p>
-
----
-
-### 🛠️ Tools & Playground of a Hacker:
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=blue" />
   <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Amass-000?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shodan-000?style=for-the-badge&logo=shodan&logoColor=red" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Burp_Suite-ff5722?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLMap-000?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghidra-cc0000?style=for-the-badge&logo=ghidra&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/IDA_Free-333?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flare_VM-000?style=for-the-badge&logo=windows&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Maltego-000?style=for-the-badge&logo=maltego&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red" />
   <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=green" />
   <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-binu-bb&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-binu-bb&layout=compact&theme=radical" width="48%">
-</p>
 
 ---
 
