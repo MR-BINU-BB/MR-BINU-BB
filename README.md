@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://telegram.me/MR_BINU_BB" target="_blank">
+  <a href="https://telegram.me/CypherBinu" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
-  <a href="https://x.com/MR_BINU_BB" target="_blank">
+  <a href="https://x.com/CypherBInu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://github.com/mr-binu-bb" target="_blank">
+  <a href="https://github.com/CypherBinu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
@@ -95,7 +95,7 @@ and help secure the digital world through bug hunting, OSINT, forensics, and exp
 ---
 
 <p align="center">
-  <img src="https://github.com/mr-binu-bb/mr-binu-bb/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/CypherBinu/CypherBinu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
